@@ -1,3 +1,6 @@
+import base64
+import os
+from logo import img
 from pynput import mouse
 import time
 import random
